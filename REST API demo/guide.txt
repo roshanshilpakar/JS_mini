@@ -1,0 +1,11 @@
+***installiation with all the procedure***
+
+pachage.json - metadata of the project
+
+1. npm init(initialize node js)
+2. entry point: script.js
+3. npm i express(install express)
+4. npm i joi( install joi - code validation for nodejs and expressjs)
+5. npm i -g nodemon ( install nodemon)
+6. run the server using 'node script.js'
+7. use postman to test the api
